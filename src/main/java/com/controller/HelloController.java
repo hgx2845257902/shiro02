@@ -6,6 +6,4 @@ public class HelloController {
         System.out.println("haha");
 
     }
-
-
 }
